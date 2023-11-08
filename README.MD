@@ -1,4 +1,9 @@
 Prácticas de lectura DESCRIPCION GENERAL
 
-Objetivos 
-Prueba
+# Objetivos
+
+## Prueba 
+
+**negrita**
+
+*cursiva*
