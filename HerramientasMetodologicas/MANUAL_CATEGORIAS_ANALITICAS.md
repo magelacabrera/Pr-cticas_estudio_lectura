@@ -4,7 +4,6 @@ Prácticas y representaciones acerca del estudio
 
 Pregunta general.¿Cuáles son las transformaciones, resignificaciones, continuidades y discontinuidades entre las prácticas de estudio tradicionales y digitales , ¿qué tipo de nuevas síntesis y organizaciones conceptuales genera la lectura en ambos soportes?
 
-
 1¿Cuáles son los recursos y estrategias que utilizan lxs estudiantes avanzados de comunicación para  estudiar?
 
 -Los recursos, habilidades y competencias digitales no suponen el reemplazo de los recursos tradicionales para leer y estudiar. 
@@ -18,7 +17,6 @@ Pregunta general.¿Cuáles son las transformaciones, resignificaciones, continui
 - Aunque reconocen sus limitaciones, usan Wikipedia, Educatina u otros recursos similares en forma complementaria al texto, sobre todo al inicio de una búsqueda de un tema, autor o concepto, para poder tener una síntesis o comprender mejor lo que están leyendo.  
 -EVA es percibida como atajo, reducción de complejidad, repositorio confiable, organización del conocimiento necesario e indispensable para aprobar un curso.
 - A diferencia de lo que representó para las generaciones contemporáneas de quienes administraban y subían contenido a dicha plataforma mediante estrategias colaborativas, Adam ha quedado como un repositorio secundario.
-
 
 1.3.¿Cuáles son las diferencias de las prácticas de lectura en pantalla y en papel?,
 
@@ -43,17 +41,13 @@ Pregunta general.¿Cuáles son las transformaciones, resignificaciones, continui
 -El leer más o menos es relativo según cuánto se leía antes: quienes manifiestan que leían mucho antes, sienten que en este momento leen menos. - En quienes no leían demasiado, o no se identificaban con el hábito de la lectura, se observa que manifiestan leer más.
 -Reconocen en la escolaridad universitaria, haber adquirido competencias para validar y buscar con criterios más asertivos la información que necesitan.
 
-
 3.¿Cómo inciden las nuevas prácticas y estrategias de conocimiento generadas en la red, en el capital cultural y simbólico de lxs estudiantes? 
 
 Los capitales culturales y simbólicos (estudios y ocupación de los padres, pertenencia socio cultural, desempeño escolar) siguen teniendo una centralidad importante, pero actúan de manera menos determinante en la selección de lo que se busca y se comparte. 
 
-
 4.¿Las nuevas prácticas y estrategias de conocimiento que genera la red, son complementarias o sustitutivas del papel de los maestros como proveedores, dinamizadores y organizadores de dicho conocimiento? 
 
-
-
- Prácticas y representaciones acerca de la lectura extraescolar
+Prácticas y representaciones acerca de la lectura extraescolar
 
 Pregunta general.¿Cuáles son las transformaciones, resignificaciones, combinaciones, continuidades y discontinuidades entre las prácticas de lectura digitales y tradicionales?, ¿qué tipo de nuevas síntesis y organizaciones conceptuales genera la lectura en ambos soportes?
 
@@ -63,7 +57,6 @@ Pregunta general.¿Cuáles son las transformaciones, resignificaciones, combinac
 -Para quienes leen habitualmente, la lectura en soporte físico (fotocopias, libros y cualquier material impreso) sigue siendo muy valorada y consumida, por la posibilidad de apropiarse de la misma mediante la manipulación (subrayar, realizar marcas, dobleces, tocar, oler, coleccionar, etc.).  
 -Para quienes leen habitualmente la experiencia de la lectura se sigue asociando con ciertas condiciones físicas (olor, textura), ambientales (ciertos lugares y espacios) y psicológicas (intimidad, comunión con el autor, etc.) 
 -El Imaginario de colección es un componente simbólico importante del soporte de papel. Tener en la biblioteca los libros y/o revistas, cómics, preferidos, según un orden personal a partir de significaciones biográficas, etc., es algo que la mayoría aprecia
-
 
 2.¿Mediante qué medios se informan?, ¿qué medios reconocen como una práctica de lectura?
 
@@ -105,24 +98,14 @@ Pregunta general.¿Cuáles son las transformaciones, resignificaciones, combinac
 
 -A diferencia de los textos de estudio donde la necesidad de lectura se enmarca en una actividad obligatoria, la lectura motivada por sus intereses genera estrategias para cuándo y qué comprar ,cuándo y qué no, de pedir regalos, etc.
 
-
 -La información que buscan y leen en internet por su propia motivación e internet es variada. No hay exclusiones entre los intereses. Conviven intereses diversos como el fandom con el feminismo o el deporte, o la cultura. Los capitales culturales y simbólicos siguen teniendo una centralidad importante, pero actúan de manera menos determinante en la selección de lo que se busca y se comparte. 
 
 8.¿cómo organizan y relacionan la información que leen fuera del ámbito escolar?, 
-
 
 9. ¿cuáles son los procesos y las estrategias que desarrollan para comprender el significado y reconstruir el sentido de los textos que leen?,  
 
 10. ¿qué tipo de nuevas síntesis y organizaciones conceptuales produce la lectura fragmentada de diversos textos en soportes digitales?, 
 
-
 11.¿Cuáles son sus prácticas de sociabilidad alrededor de la lectura? ¿Con quién o quiénes comparten, y de qué forma?
 
-
-
 -Pese a la representación social de que leer es una práctica individual, aislada y concentrada, siempre ha sido una práctica social compartida con otros, no obstante, internet no solo visibilizó la sociabilidad que sostiene a las prácticas de lectura (intercambiar, regalar, compartir, prestar, comentar, etc.), sino que amplió el alcance de dichas prácticas a través de plataformas y aplicaciones de forma anónima. 
-
-
-
-
-
