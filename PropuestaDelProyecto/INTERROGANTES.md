@@ -38,7 +38,7 @@ Sobre las prácticas de lectura
 
 7.  ¿cuáles son las diferencias  de las prácticas de lectura en pantalla y en papel?, 
 
-8.  ¿cuáles son los contenidos más habituales que circulan y se socializan?, 
+8.  ¿cuáles son los contenidos más habituales que circulan y se socializan?
 
 9.  ¿qué tipo de continuidades y discontinuidades se producen entre las prácticas emergentes y tradicionales en diversos soportes  y temporalidades, 
 
