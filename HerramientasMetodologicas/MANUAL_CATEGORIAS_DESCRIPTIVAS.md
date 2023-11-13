@@ -1,7 +1,7 @@
 Manual de Categorías y subcategorías descriptivas para los registros autobiográficos del primer ejercicio exploratorio: 
 
-Categorías descriptivas para los cuestionarios abiertos  auto administrados del segundo ejercicio: Prácticas de estudio y de lectura
-I.Prácticas y recursos para estudiar 
+Categorías descriptivas para los cuestionarios abiertos auto administrados del segundo ejercicio: Prácticas de estudio y de lectura
+I.Prácticas y recursos para estudiar
 
 1.-Recursos, redes y plataformas utilizadas para organizar las tareas en equipo 
 
@@ -57,7 +57,6 @@ I.Prácticas y recursos para estudiar
 8.1.  Zoom, Meet, Webex, Discord [E1] [E2] [E3] [E9] [E10][E11] [E12][E13] [E15][E16] [E17] [E18] [E20] [E21] [E30] [E31] [E32] [E33] [E34] [E35] [E36] [E37] [E38] [E39] [E40]
 8.2. Otras
 
-
 9.-Percepción de cambios en las formas previas de estudiar a partir de la utilización de recursos y aplicaciones digitales
 9.1 No, ya las utilizaba. [E2] [E35]
 9.2 Nueva forma de organización del trabajo/estudio. [E1] [E3] [E10] [E11][E13] [E14] [E17] [E19] [E31] [E32] [E34] [E36] [E39] [E40] 
@@ -74,7 +73,6 @@ I.Prácticas y recursos para estudiar
 10.4. Otras
 
 
-
 II.Prácticas de lectura
 
 1.- Percepción de las prácticas de lectura no escolares desde el inicio de la carrera 
@@ -85,7 +83,6 @@ II.Prácticas de lectura
 1.4. No cambiaron los intereses o temáticas de lectura [E3] [E31] [E33] [E37]
 1.5. Otras [E13] [E15] [E34]
 
-
 2.- Tipo de información que buscan y leen en Internet por propia iniciativa, gusto o placer. 
 
 2.1. Cine, música, películas, artistas, directores, artistas [E2] [E3] [E10] [E20] [E21] [E31] [E36] [E37]
@@ -95,7 +92,6 @@ II.Prácticas de lectura
 2.5. Noticias. [E1] [E2] [E14] [E21] [E30] [E38] [E39]
 2.6. Fútbol, deportes [E1] [E3] [E9] [E16] [E19] [E20] [E33] [E34] [E38]
 2.7. Otras [E1] [E11] [E15] [E16] [E17] [E18] [E31] [E35] [E39] [E40]
-
 
 3.- Utilización y motivaciones para consultar páginas de noticias o periódicos digitales 
 3.1. Portales digitales de noticias. Diferentes plataformas tales como Youtube, diarios digitales como La Diaria y Montevideo Portal, Twitter, Montevideo Portal y Ovación digital. [E1] [E2] [E12] [E14] [E15] [E16] [E17] [E20] [E21] [E30] [E33] [E34] [E36] [E39]
@@ -119,7 +115,6 @@ II.Prácticas de lectura
 
 4.3 No compran ni descargan[E9]
 
-
 5.- Soporte preferido para leer lecturas no escolares 
 
 5.1. Formato papel [E2] [E15] [E20] [E36] [E37] [E40]
@@ -129,8 +124,6 @@ II.Prácticas de lectura
 5.1.2 Otras [E1] [E18] [E13] [E39]
 
 5.2 Pantalla [E16] [E17] [E31] [E35]
-
-
 
 
 6.- Géneros preferidos
@@ -148,9 +141,7 @@ II.Prácticas de lectura
 
 7.1. HE LEÍDO LIBROS A PARTIR DE VER PELÍCULAS   [E1] [E2] [E10]  [E13]  [E14]  [E15]  [E17]  [E18] [E20] [E21] [E30] [E32] [E34] [E36] [E37] [E33] [E38] [E39]
 
-
 7.2. No soy de leer el libro después de ver la película.  [E3] [E16] [E35] [E40]
-
 
 7.3 Otras  [E1] [E19] [E33] [E38]
 
@@ -176,8 +167,6 @@ La película de Los Juegos Del Hambre hace muchos años me motivó a leer los li
 
 9.2 No realiza búsquedas de informaciòn sobre libros y pelìculas  [E11] 
 “Nunca busco sobre los actores, de hecho, conozco muy poco de ellos, solamente de haberlos visto en otras películas sí no son de la región. Si son uruguayos o argentinos suelo tener alguna idea más clara por haberlos escuchado o leído en notas o noticias”. 
-
-
 
 Percepciones y representaciones sobre la condición de ser joven  
 1.- Autopercepción de lo que significa ser joven
@@ -230,5 +219,3 @@ Percepciones y representaciones sobre la condición de ser joven
 5.2. INCERTIDUMBRE, MIEDO ANSIEDAD, no saber lo que me espera,  la intriga de saber qué es lo que va a suceder a nivel personal y en el mundo [E1] [E11] [E12] [E13] [E14] [E15] [E19] [E20] [E21] [E30] [E31] [E32] [E33] [E35] [E36] [E38] [E39] [E40] 
 5.3. ALGO LEJANO. [E3]
 5.4. OTRAS: Temor al control de las tecnologías
-
-
