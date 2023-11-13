@@ -2,8 +2,6 @@ INTERROGANTES DE INVESTIGACIÓN
 
 Las interrogantes que orientaron las guías de exploración son las siguientes:
 
-Sobre la autopercepción de ser jóvenes,
-
 Sobre las prácticas de estudio
 
 1.  ¿Qué recursos, redes y plataformas utilizan para informarse, compartir la información y organizar las tareas en equipo? 
