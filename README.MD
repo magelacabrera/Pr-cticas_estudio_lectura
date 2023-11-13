@@ -1,4 +1,4 @@
-# Titulo
+# Prácticas de estudio y de lectura de estudiantes de la Licenciatura en Comunicación de la Facultad de Información y Comunicación, Uruguay
 
 ## Subtitulo
 
@@ -16,7 +16,6 @@ Elaboración de codificación analítica (link)
 Análisis e interpretación (pendiente)
 
 HERRAMIENTA UTILIZADA PARA ANÁLISIS Y CREACIÓN DE CATEGORÍAS: Google drive
-
 
 Contenido
 
@@ -59,4 +58,3 @@ Contenido
 
 ### Manual de categorías descriptivas
 - [Documento](./docs/Herramientas_Metodológicas/Manual_Categorías_Descriptivas.md)
-
