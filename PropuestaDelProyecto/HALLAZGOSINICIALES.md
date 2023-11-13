@@ -1,9 +1,5 @@
 Preguntas de investigación y hallazgos iniciales
 
-Segunda etapa del trabajo de campo (23/08/23
-
-Consignas y preguntas para ampliar y profundizar relatos y respuestas del ejercicio exploratorio
-
 Reflexiones epistemológicas previas para no perder el foco de la indagación (30/08/2023)
 
 1.  El estudio se centra sobre las prácticas y las representaciones sobre el estudio y la lectura, y no sobre los géneros y soportes reconocidos en el imaginario social como lecturas (libros, novelas, libros de texto, cómics, revistas, periódicos, etc.)
