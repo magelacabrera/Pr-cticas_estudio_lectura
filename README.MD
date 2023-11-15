@@ -8,7 +8,7 @@ Indagar las prácticas y representaciones tradicionales y digitales de estudio y
 
 Comprender cómo se diferencian, articulan e hibridan dichas prácticas y representaciones en las estrategias de estudio y modos de lectura.
 
-**Método **
+**Método**
 
 Elaboración y aplicación del Cuestionario con preguntas abiertas autoadministrado sobre las prácticas de estudio y las prácticas de lectura (link)
 Elaboración de codificación descriptiva (categorías y subcategorías)
