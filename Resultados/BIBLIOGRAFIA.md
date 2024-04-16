@@ -1,0 +1,41 @@
+## VI. Bibliografía citada
+
+- Albarello, F. (2019). *Lectura transmedia. Leer, escribir, conversar en el ecosistema de pantallas.* Buenos Aires, Ampersand.
+- Albarello, F. (Ed.). (2022). *Mutaciones. Hábitos de información y estudio en universidades argentinas.* UNR Editora.
+- Alvarado I, et al. (2014). Comparación de estrategias de estudio y autorregulación en universitarios. *Revista electrónica de investigación educativa REDIE, 16*(1), 137-148.
+- Area Moreira, M. (2007). Algunos principios para el desarrollo de buenas prácticas pedagógicas con las TICs en el aula. *Comunicación y pedagogía: Nuevas tecnologías y recursos didácticos, 222*, 42-27.
+- Baron, N. S., Calixte, R. M., & Havewala, M. (2017). The persistence of print among university students: An exploratory study. *Telematics and Informatics, 34*(5), 590-604. [Link](https://doi.org/10.1016/j.tele.2016.11.008)
+- Borzone Valdebenito, M. A. (2017). Autoeficacia y vivencias académicas en estudiantes universitarios. *Acta Colombiana de Psicología, 20*(1), 266–274. [Link](https://doi.org/10.14718/ACP.2017.20.1.13)
+- Cabero Almenara, J., & López Meneses, E. (2009). Descripción de un instrumento didáctico para el análisis de modelos y estrategias de enseñanza de cursos universitarios en Red (ADECUR). *Pixel-Bit. Revista de Medios y Educación, 34*, 13-30.
+- Castro Sánchez, M., Beccaria, M. C., & Silvetti, R. (2022). El vínculo pedagógico en la educación superior de la pospandemia. La sincronía como intensificador de presencia en carreras a distancia. En *Segundo Congreso Internacional de Ciencias Humanas “Actualidad de lo clásico y saberes en disputa de cara a la sociedad digital".* Escuela de Humanidades, Universidad Nacional de San Martín.
+- De Alba, A. (2021). La construcción de la presencialidad en la virtualidad como exigencia político-pedagógica. *Revista argentina de investigación educativa, 1*(1).
+- Dussel, I., & Ferrante, P. (2023). Global connective media: YouTube as an educational infrastructure. En *International Encyclopedia of Education* (Fourth Edition) (pp. 622-629). Elsevier. [Link](https://doi.org/10.1016/B978-0-12-818630-5.01021-6)
+- Feldstein, A. P., & Maruri, M. (2013). Understanding slow growth in the adoption of e-textbooks: Distinguishing paper and electronic delivery of course content. *International Research in Education, 1*(1), 177. [Link](https://doi.org/10.5296/ire.v1i1.4071)
+- Fernández et al, (2014) “Motivación hacia el aprendizaje y usos de las tics en estudiantes universitarios: aproximaciones desde la escala mslq.
+- Fernández Zalazar, Diana; Neri, Carlos (2013) “Estudiantes universitarios, TICS y aprendizaje” *Revista psicología educacional y orientación vocacional. Anuario investig. vol.20 no.1* Ciudad Autónoma de Buenos Aires ene. 2013. versión On-line ISSN 1851-1686
+- Gerber Bicecci, V., & Pinochet Cobos, C. (2015). Cómo leen los que escriben textos e imágenes. En *Hacia una antropología de los lectores.* México DF: Ariel/UAM/Fundación Telefónica.
+- Harasim, L. Hiltz, S. R., Turoff, M., Teles, L. (2000). *Redes de aprendizaje. Guía para la enseñanza y el aprendizaje en red.* Barcelona: Gedisa
+- Igarza, R. (2021). *Presencias imperfectas. El futuro virtual de lo social.* La marca editora.
+- Kurata, K., Ishita, E., Miyata, Y., & Minami, Y. (2017). Print or digital? Reading behavior and preferences in Japan. *Journal of the Association for Information Science and Technology, 68*(4), 884-894. [Link](https://doi.org/10.1002/asi.23712)
+- Lion, C. (2020). *Aprendizaje y tecnologías. Habilidades del presente, proyecciones de futuro.* Buenos Aires: Editorial Novedades Educativas.
+- Lion, C., & Maggio, M. (2019). Desafíos para la enseñanza universitaria en los escenarios digitales contemporáneos. Aportes desde la investigación. *Cuadernos De Investigación Educativa, 10*(1), 13 - 25. [Link](https://doi.org/10.18861/cied.2019.10.1.2878)
+- Litwin, E. (1997). *Las configuraciones didácticas. Una nueva agenda para la enseñanza superior.* Buenos Aires: Paidós.
+- Maggio, M. (2022). *Híbrida. Enseñar en la universidad que no vimos venir.* Buenos Aires: Tilde Editora.
+- Maggio, M. (2020). Las prácticas de la enseñanza universitarias en la pandemia: de la conmoción a la mutación. *Campus Virtuales, 9*(2), 113-122.
+- Maggio, M., Lion, C., & Jacubovich, J. (2022). Las prácticas de la enseñanza en entornos virtuales: dimensiones didácticas emergentes en el contexto de aislamiento. *Voces De La educación*, 83–115. Recuperado a partir de [enlace](https://www.revista.vocesdelaeducacion.com.mx/index.php/voces/article/view/550)
+- Mangen, A., Walgermo, B. R., & Brønnick, K. (2013). Reading linear texts on paper versus computer screen: Effects on reading comprehension. *International Journal of Educational Research, 58*, 61-68. [Link](https://doi.org/10.1016/j.ijer.2012.12.002)
+- Maquilón Sánchez, A. B. Mirete Ruiz, F. A. García Sánchez y F. Hernández Pina Valoración de las tic por los estudiantes universitarios y su relación con los enfoques de aprendizaje. *RIE, vol. 31-2*(2013)
+- Martínez, Mª.E. y Raposo, M. (2006). Las TIC en manos de los estudiantes universitarios, *Revista Latinoamericana de Tecnología Educativa, 5*(2), 165‐176. [enlace](http://www.unex.es/didactica/RELATEC/sumario_5_2.htm)
+- McNeish, M. Foster, A. Francescucci y B. West, (2012). The surprising foil to online education: Why students won’t give up paper textbooks. *Journal for Advancement of Marketing Education 20*(3), 58–69
+- Mizrachi, D. (2015). Undergraduates’ academic reading format preferences and behaviors. *The Journal of Academic Librarianship, 41*(3), 301-311. [Link](https://doi.org/10.1016/j.acalib.2015.03.009)
+- Mizrachi, D., Salaz, A. M., Kurbanoglu, S., Boustany, J., & on behalf of the ARFIS Research Group. (2018). Academic reading format preferences and behaviors among university students worldwide: A comparative survey analysis. *PLOS ONE, 13*(5), e0197444. [Link](https://doi.org/10.1371/journal.pone.0197444)
+- Olivera, M y Parentelli V. (2021) “Universidad, estudiantes y comunidad virtual de aprendizaje: WhatsApp como promotor para la construcción de un nuevo espacio tecnológico, geográfico y social” *Informatio 26*(2), 189-218 ISSN: 2301-1378 189 DOI: 10.35643/Info.26.2.9
+- Pereira, L. (2005). La autorregulación como proceso complejo en el aprendizaje peninsular. *Polis, Revista de la Universidad Bolivariana,4*(11). [enlace](https://www.redalyc.org/pdf/305/30541118.pdf)
+- Prado Kuklinski, H., & Cobo, C. (2020). Expandir la universidad más allá de la enseñanza remota de emergencia. Ideas hacia un modelo híbrido post-pandemia. Barcelona: Outliers School.
+- Schilhab, T., Balling, G., & Kuzmčová, A. (2020). La disminución de la materialidad en el tránsito de la lectura impresa a la lectura en pantalla. Kovač, Miha; Van-der-Weel, Adriaan (coords.). *Lectura en papel vs. lectura en pantalla.* Bogotá: Cerlalc-Unesco, 106-120.
+- Singer, L. M., & Alexander, P. A. (2017). Reading on paper and digitally: What the past decades of empirical research reveal. *Review of Educational Research, 87*(6), 1007-1041. [Link](https://doi.org/10.3102/0034654317722961)
+- Winocur, R. (2015). El salón de clases como espacio de negociación entre prácticas tradicionales y emergentes de lectura: Etnografía de la experiencia de un grupo de jóvenes universitarios. *Rizoma, 3*(2), 47-62.
+- Winocur, 2016)
+- Castro Sánchez et al (2022) 
+- De Alba, 2021; 
+- Igarza (2021)
