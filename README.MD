@@ -21,24 +21,19 @@ Contenido
 
 1. [PROPUESTA DEL PROYECTO](#propuesta-del-proyecto)
    1.1 [Objetivos](#objetivos)
-   1.2 [Hipótesis](#hipótesis)
-   1.3 [Interrogantes de investigación](#interrogantes-de-investigación)
+   1.2 [Interrogantes de investigación](#interrogantes-de-investigación)
 
 2. [ANÁLISIS](#análisis)
    2.1 [Interrogantes de investigación y hallazgos iniciales](#interrogantes-de-investigación-y-hallazgos-iniciales)
 
 3. [HERRAMIENTAS METODOLÓGICAS](#herramientas-metodológicas)
    3.1 [Guía de exploración Prácticas de estudio y lectura](#guía-de-exploración-prácticas-de-estudio-y-lectura)
-   3.2 [Registros autobiográficos (40 docs)](#registros-autobiográficos-40-docs)
-   3.3 [Manual de categorías descriptivas](#manual-de-categorías-descriptivas)
+   3.2 [Manual de categorías descriptivas](#manual-de-categorías-descriptivas)
 
 ## PROPUESTA DEL PROYECTO
 
 ### Objetivos
 - [Documento](./docs/Propuesta_del_Proyecto/Objetivos.md)
-
-### Hipótesis
-- [Documento](./docs/Propuesta_del_Proyecto/Hipótesis.md)
 
 ### Interrogantes de investigación
 - [Documento](./docs/Propuesta_del_Proyecto/Interrogantes_de_Investigación.md)
@@ -52,9 +47,6 @@ Contenido
 
 ### Guía de exploración Prácticas de estudio y lectura
 - [Cuestionario](./docs/Herramientas_Metodológicas/Guía_Exploración_Prácticas_Estudio_Lectura.md)
-
-### Registros autobiográficos (40 docs)
-- [Carpeta con documentos](./docs/Herramientas_Metodológicas/Registros_Autobiográficos/)
 
 ### Manual de categorías descriptivas
 - [Documento](./docs/Herramientas_Metodológicas/Manual_Categorías_Descriptivas.md)
