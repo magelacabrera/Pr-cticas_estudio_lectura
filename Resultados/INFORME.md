@@ -83,29 +83,29 @@ El estudio exploratorio se llevó a cabo con 40 estudiantes de la asignatura Soc
 
 **Instrumento de indagación**
 
-Para llevar a cabo el estudio exploratorio se diseñó una entrevista cualitativa autoadministrada de 20 preguntas ([link](https://docs.google.com/document/d/1J4_YaJU4LvLJhtGOHAuhlo9qBXsX1kVz/edit?usp=sharing&ouid=114217756743209092059&rtpof=true&sd=true)). El instrumento tenía por objetivo, por una parte, recuperar la percepción de los y las estudiantes sobre sus prácticas de estudio y modos de lectura en diversos soportes físicos y digitales, y, por otra, reconstruir las estrategias que generan para resolver las demandas planteadas por distintas asignaturas para ser eximidas. La entrevista se aplicó en el marco de una tarea escolar vinculada a los contenidos de la asignatura Sociedad, Cultura y Tics, del ciclo de graduación de la carrera de Comunicación de la FIC/Udelar. En concreto, la entrevista autoadministrada se ubicó en el II módulo de contenidos “Jóvenes y tecnologías digitales”, que tiene como propósito propiciar una reflexión intensa sobre sus prácticas y representaciones con dichas tecnologías en diversos ámbitos de la vida cotidiana.
+Para llevar a cabo el estudio exploratorio se diseñó una entrevista cualitativa autoadministrada de 20 preguntas. El instrumento tenía por objetivo, por una parte, recuperar la percepción de los y las estudiantes sobre sus prácticas de estudio y modos de lectura en diversos soportes físicos y digitales, y, por otra, reconstruir las estrategias que generan para resolver las demandas planteadas por distintas asignaturas para ser eximidas. La entrevista se aplicó en el marco de una tarea escolar vinculada a los contenidos de la asignatura Sociedad, Cultura y Tics, del ciclo de graduación de la carrera de Comunicación de la FIC/Udelar. En concreto, la entrevista autoadministrada se ubicó en el II módulo de contenidos “Jóvenes y tecnologías digitales”, que tiene como propósito propiciar una reflexión intensa sobre sus prácticas y representaciones con dichas tecnologías en diversos ámbitos de la vida cotidiana.
 
 **Etapas del estudio exploratorio (noviembre 2022/abril 2024)**
 
-1.-Elaboración y aplicación de la entrevista cualitativa autoadministrada sobre las prácticas de estudio y las prácticas de lectura que se aplicó en noviembre de 2022 ([link](https://docs.google.com/document/d/1J4_YaJU4LvLJhtGOHAuhlo9qBXsX1kVz/edit?usp=sharing&ouid=114217756743209092059&rtpof=true&sd=true))
+1.-Elaboración y aplicación de la entrevista cualitativa autoadministrada sobre las prácticas de estudio y las prácticas de lectura que se aplicó en noviembre de 2022
 
-2.-Listado de excel con los casos enumerados del 1 al 40 ([link](https://docs.google.com/spreadsheets/d/1XXYemPYUdpAE0xU8q_fZoxIW2fssxmOuf1XsAIThHCA/edit?usp=sharing))
+2.-Listado de excel con los casos enumerados del 1 al 40
 
-3.-Carpeta con 40 archivos que reúnen el material recabado de la guía de entrevista autoadministrada ([link](https://drive.google.com/drive/folders/1vJPLm4afQhfH98QX6Tp4rBfiKVxvrKw9))
+3.-Carpeta con 40 archivos que reúnen el material recabado de la guía de entrevista autoadministrada
 
-4.-Análisis preliminar del material recogido y elaboración de un índice de categorías y subcategorías descriptivas para la codificación ([link](https://docs.google.com/document/d/1UBJpq7o-zIZIO89r5NEWlI9qJpauCAqx/edit?usp=sharing&ouid=114217756743209092059&rtpof=true&sd=true))
+4.-Análisis preliminar del material recogido y elaboración de un índice de categorías y subcategorías descriptivas para la codificación
 
-5.-Elaboración de un Manual de codificación descriptivo con el objeto de agrupar las respuestas en categorías y subcategorías representativas de las definiciones, explicaciones, valoraciones y apreciaciones que dieron los y las estudiantes acerca de sus estrategias de estudio y prácticas de lectura ([Link a manual descriptivo](https://docs.google.com/document/d/1UBJpq7o-zIZIO89r5NEWlI9qJpauCAqx/edit?usp=drive_link&ouid=114217756743209092059&rtpof=true&sd=true))
+5.-Elaboración de un Manual de codificación descriptivo con el objeto de agrupar las respuestas en categorías y subcategorías representativas de las definiciones, explicaciones, valoraciones y apreciaciones que dieron los y las estudiantes acerca de sus estrategias de estudio y prácticas de lectura
 
-6.- Análisis descriptivo en base a los 40 registros ([link](https://docs.google.com/document/d/111sRs5Nt7O6gWqINj28RYW3ZabeF4XJw/edit?usp=sharing&ouid=114217756743209092059&rtpof=true&sd=true)) EN PROCESO, LO ESTOY UNIFICANDO
+6.- Análisis descriptivo en base a los 40 registros
 
-7.- Sobre la base de la codificación descriptiva de las 40 entrevistas autoadministradas, creación de categorías y subcategorías para la codificación analítica ([link](https://docs.google.com/document/d/1fMtVhV9xyIcnrV7xQNyfJMCmamtEE3bT/edit?usp=drive_link&ouid=114217756743209092059&rtpof=true&sd=true))
+7.- Sobre la base de la codificación descriptiva de las 40 entrevistas autoadministradas, creación de categorías y subcategorías para la codificación analítica
 
-8.- Elaboración de un nuevo manual de codificación con categorías analíticas a partir del ajuste de las hipótesis y preguntas de investigación ([Link a manual analítico](https://docs.google.com/document/d/1bcXQox6Pv72q00rb0lXlGfU7zwVaAEML/edit?usp=drive_link&ouid=114217756743209092059&rtpof=true&sd=true)).
+8.- Elaboración de un nuevo manual de codificación con categorías analíticas a partir del ajuste de las hipótesis y preguntas de investigación
 
-9.- Análisis e interpretación de los resultados a partir de la codificación y revisión bibliográfica ([link](https://docs.google.com/document/d/11frTaH70V4AgKNn8juhSST7Qfqwx39uX/edit?usp=drive_link&ouid=114217756743209092059&rtpof=true&sd=true))
+9.- Análisis e interpretación de los resultados a partir de la codificación y revisión bibliográfica
 
-10.- Redacción del informe final de investigación (falta link)
+10.- Redacción del informe final de investigación 
 
 **III. Análisis e interpretación de los hallazgos** 
 
