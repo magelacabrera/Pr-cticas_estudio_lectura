@@ -35,7 +35,3 @@
 - Schilhab, T., Balling, G., & Kuzmčová, A. (2020). La disminución de la materialidad en el tránsito de la lectura impresa a la lectura en pantalla. Kovač, Miha; Van-der-Weel, Adriaan (coords.). *Lectura en papel vs. lectura en pantalla.* Bogotá: Cerlalc-Unesco, 106-120.
 - Singer, L. M., & Alexander, P. A. (2017). Reading on paper and digitally: What the past decades of empirical research reveal. *Review of Educational Research, 87*(6), 1007-1041. [Link](https://doi.org/10.3102/0034654317722961)
 - Winocur, R. (2015). El salón de clases como espacio de negociación entre prácticas tradicionales y emergentes de lectura: Etnografía de la experiencia de un grupo de jóvenes universitarios. *Rizoma, 3*(2), 47-62.
-- Winocur, 2016)
-- Castro Sánchez et al (2022) 
-- De Alba, 2021; 
-- Igarza (2021)
