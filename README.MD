@@ -1,6 +1,5 @@
 # Prácticas de estudio y de lectura de estudiantes de la Licenciatura en Comunicación de la Facultad de Información y Comunicación, Uruguay
 
-## Subtitulo
 
 **Objetivos**
 
@@ -10,10 +9,10 @@ Comprender cómo se diferencian, articulan e hibridan dichas prácticas y repres
 
 **Método**
 
-Elaboración y aplicación del Cuestionario con preguntas abiertas autoadministrado sobre las prácticas de estudio y las prácticas de lectura (link)
+Elaboración y aplicación del Cuestionario con preguntas abiertas autoadministrado sobre las prácticas de estudio y las prácticas de lectura
 Elaboración de codificación descriptiva (categorías y subcategorías)
-Elaboración de codificación analítica (link)
-Análisis e interpretación (pendiente)
+Elaboración de codificación analítica
+Análisis e interpretación
 
 HERRAMIENTA UTILIZADA PARA ANÁLISIS Y CREACIÓN DE CATEGORÍAS: Google drive
 
