@@ -48,4 +48,4 @@ Contenido
 - [Cuestionario](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/GUIA_EXPLORACION.md)
 
 ### Manual de categorías descriptivas
-- [Documento](./docs/Herramientas_Metodológicas/Manual_Categorías_Descriptivas.md)
+- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/MANUAL_CATEGORIAS_DESCRIPTIVAS.md)
