@@ -40,7 +40,7 @@ Contenido
 ## ANÁLISIS
 
 ### Interrogantes de investigación y hallazgos iniciales
-- [Documento](./docs/Análisis/Interrogantes_Hallazgos_Iniciales.md)
+- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/SINTESISDEHALLAZGOS.md)
 
 ## HERRAMIENTAS METODOLÓGICAS
 
