@@ -45,7 +45,7 @@ Contenido
 ## HERRAMIENTAS METODOLÓGICAS
 
 ### Guía de exploración Prácticas de estudio y lectura
-- [Cuestionario](./docs/Herramientas_Metodológicas/Guía_Exploración_Prácticas_Estudio_Lectura.md)
+- [Cuestionario](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/GUIA_EXPLORACION.md)
 
 ### Manual de categorías descriptivas
 - [Documento](./docs/Herramientas_Metodológicas/Manual_Categorías_Descriptivas.md)
