@@ -35,7 +35,7 @@ Contenido
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/PropuestaDelProyecto/OBJETIVOS.md)
 
 ### Interrogantes de investigación
-- [Documento](./docs/Propuesta_del_Proyecto/Interrogantes_de_Investigación.md)
+- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/INTERROGANTES.md)
 
 ## ANÁLISIS
 
