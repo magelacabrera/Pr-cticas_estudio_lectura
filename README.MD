@@ -14,20 +14,10 @@ Elaboración de codificación descriptiva (categorías y subcategorías)
 Elaboración de codificación analítica
 Análisis e interpretación
 
-HERRAMIENTA UTILIZADA PARA ANÁLISIS Y CREACIÓN DE CATEGORÍAS: Google drive
+Herramienta Utilizada para análisis y creación de categorías: Google Drive
+
 
 Contenido
-
-1. [PROPUESTA DEL PROYECTO](#propuesta-del-proyecto)
-   1.1 [Objetivos](#objetivos)
-   1.2 [Interrogantes de investigación](#interrogantes-de-investigación)
-
-2. [ANÁLISIS](#análisis)
-   2.1 [Interrogantes de investigación y hallazgos iniciales](#interrogantes-de-investigación-y-hallazgos-iniciales)
-
-3. [HERRAMIENTAS METODOLÓGICAS](#herramientas-metodológicas)
-   3.1 [Guía de exploración Prácticas de estudio y lectura](#guía-de-exploración-prácticas-de-estudio-y-lectura)
-   3.2 [Manual de categorías descriptivas](#manual-de-categorías-descriptivas)
 
 ## PROPUESTA DEL PROYECTO
 
@@ -53,4 +43,4 @@ Contenido
 ## RESULTADOS 
 
 ### Reporte de Investigación 
--[Reporte] (https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/INFORME.md)
+- [Reporte](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/INFORME.md)
