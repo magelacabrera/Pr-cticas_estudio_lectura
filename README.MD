@@ -44,3 +44,6 @@ Contenido
 
 ### Reporte de Investigación 
 - [Reporte](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/INFORME.md)
+
+### Síntesis de Hallazgos
+- [Síntesis](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/SINTESISDEHALLAZGOS.md)
