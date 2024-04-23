@@ -32,7 +32,7 @@ Contenido
 ## PROPUESTA DEL PROYECTO
 
 ### Objetivos
-- [Documento](./docs/Propuesta_del_Proyecto/Objetivos.md)
+- [Documento](https://raw.githubusercontent.com/magelacabrera/Pr-cticas_estudio_lectura/main/PropuestaDelProyecto/OBJETIVOS.md?token=GHSAT0AAAAAACQ5H5VRSBL2JOPKZSYMFARKZRHX33A)
 
 ### Interrogantes de investigación
 - [Documento](./docs/Propuesta_del_Proyecto/Interrogantes_de_Investigación.md)
