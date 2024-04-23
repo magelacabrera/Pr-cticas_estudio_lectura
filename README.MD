@@ -1,13 +1,13 @@
 # Prácticas de estudio y de lectura de estudiantes de la Licenciatura en Comunicación de la Facultad de Información y Comunicación, Uruguay
 
 
-**Objetivos**
+# Objetivos
 
 Indagar las prácticas y representaciones tradicionales y digitales de estudio y lectura en jóvenes universitarios de comunicación del último ciclo que asisten a una universidad pública.
 
 Comprender cómo se diferencian, articulan e hibridan dichas prácticas y representaciones en las estrategias de estudio y modos de lectura.
 
-**Método**
+# Método
 
 Elaboración y aplicación del Cuestionario con preguntas abiertas autoadministrado sobre las prácticas de estudio y las prácticas de lectura
 Elaboración de codificación descriptiva (categorías y subcategorías)
