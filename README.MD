@@ -40,6 +40,9 @@ Contenido
 ### Manual de categorías descriptivas
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/MANUAL_CATEGORIAS_DESCRIPTIVAS.md)
 
+### Documentación del Proceso
+-[Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/DOC_PROCESO.md)
+
 ## RESULTADOS 
 
 ### Reporte de Investigación 
