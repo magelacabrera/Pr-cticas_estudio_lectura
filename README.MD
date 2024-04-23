@@ -14,7 +14,7 @@ Elaboración de codificación descriptiva (categorías y subcategorías)
 Elaboración de codificación analítica
 Análisis e interpretación
 
-## Herramienta Utilizada para análisis y creación de categorías: 
+### Herramienta Utilizada para análisis y creación de categorías: 
 Google Drive
 
 
