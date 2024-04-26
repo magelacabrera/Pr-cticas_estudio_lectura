@@ -46,6 +46,10 @@ Google Drive
 
 ### Interrogantes de investigación y hallazgos iniciales
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/SINTESISDEHALLAZGOS.md)
+### Análisis e interpretación
+- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/ANALISIS_E_INTERPRETACION_SEGUNDA_VERSION.md)
+### Análisis en base a categorías descriptivas
+- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/--------.md)
 
 
 ## RESULTADOS 
