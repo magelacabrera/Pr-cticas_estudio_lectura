@@ -27,11 +27,6 @@ Google Drive
 ### Interrogantes de investigación
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/INTERROGANTES.md)
 
-## ANÁLISIS
-
-### Interrogantes de investigación y hallazgos iniciales
-- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/SINTESISDEHALLAZGOS.md)
-
 ## HERRAMIENTAS METODOLÓGICAS
 
 ### Guía de exploración Prácticas de estudio y lectura
@@ -40,8 +35,18 @@ Google Drive
 ### Manual de categorías descriptivas
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/MANUAL_CATEGORIAS_DESCRIPTIVAS.md)
 
+### Manual de categorías analíticas
+- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/MANUAL_CATEGORIAS_ANALITICAS.md)
+
 ### Documentación del Proceso
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/DOC_PROCESO.md)
+
+
+## ANÁLISIS
+
+### Interrogantes de investigación y hallazgos iniciales
+- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/SINTESISDEHALLAZGOS.md)
+
 
 ## RESULTADOS 
 
