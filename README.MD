@@ -25,7 +25,7 @@ Google Drive
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/PropuestaDelProyecto/OBJETIVOS.md)
 
 ### Interrogantes de investigación
-- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/INTERROGANTES.md)
+- [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/PropuestaDelProyecto/INTERROGANTES.md)
 
 ## HERRAMIENTAS METODOLÓGICAS
 
