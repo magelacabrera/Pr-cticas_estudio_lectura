@@ -1,4 +1,4 @@
-## Manual de Categorías y subcategorías descriptivas para los registros autobiográficos del primer ejercicio exploratorio: Percepciones y representaciones sobre la condición de ser joven
+## Análisis en base a Categorías y subcategorías descriptivas para los registros autobiográficos del primer ejercicio exploratorio: Percepciones y representaciones sobre la condición de ser joven
 
 ## 1.- Autopercepción de lo que significa ser joven
 
