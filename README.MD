@@ -22,29 +22,48 @@ Google Drive
 ## PROPUESTA DEL PROYECTO
 
 ### Objetivos
+
+Se presentan los objetivos del proyecto Estudio de las prácticas de lectura en estudiantes de comunicación de la FIC
+
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/PropuestaDelProyecto/OBJETIVOS.md)
 
 ### Interrogantes de investigación
+
+Se presentan las interrogantes que orientaron las guías de exploración aplicadas a los estudiantes en formato de cuestionarios autoadministrados sobre las prácticas de estudio y prácticas de lectura. Estas interrogantes son ajustadas una vez avanzado el análisis.
+
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/PropuestaDelProyecto/INTERROGANTES.md)
 
 ## HERRAMIENTAS METODOLÓGICAS
 
 ### Guía de exploración Prácticas de estudio y lectura
+
+Cuestionario exploratorio auto respondido de preguntas abiertas sobre prácticas de estudio y prácticas de lectura. La muestra fue tomanda en el marco del módulo Jóvenes y TICs, del curso Sociedad, Cultura y TICs de la carrera de comunicación de la FIC.
+
 - [Cuestionario](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/GUIA_EXPLORACION.md)
 
 ### Manual de categorías descriptivas
+
+Se listan las categorías y subcategorías descriptivas para los registros autobiográficos del cuestionario sobre prácticas de estudio y prácticas de lectura de estudiantes de la licenciatura en comunicación de la FIC.
+
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/MANUAL_CATEGORIAS_DESCRIPTIVAS.md)
 
 ### Manual de categorías analíticas
+
+Se listan las categorías y subcategorías analíticas para los registros autobiográficos del cuestionario sobre prácticas de estudio y prácticas de lectura de estudiantes de la licenciatura en comunicación de la FIC.
+
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/MANUAL_CATEGORIAS_ANALITICAS.md)
 
 ### Documentación del Proceso
+Se documenta el proceso de investigación sobre prácticas de estudio y prácticas de lectura de estudiantes de la licenciatura en comunicación de la FIC.
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/DOC_PROCESO.md)
 
 
 ## ANÁLISIS
 
 ### Análisis e interpretación
+
+Presentación del análisis e interpretación de los resultados
+
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Analisis/ANALISIS_E_INTERPRETACION.md)
 ### Análisis en base a categorías descriptivas
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Analisis/ANALISIS_EN_BASE_A_CATEGORIAS.md)
@@ -53,10 +72,14 @@ Google Drive
 ## RESULTADOS 
 
 ### Interrogantes de investigación y hallazgos iniciales
+Se documentan las interrogantes de investigación y hallazgos iniciales.
 - [Documento](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/SINTESISDEHALLAZGOS.md)
 
 ### Reporte de Investigación 
+
+Informe final de estudio exploratorio sobre las estrategias de estudio y modos de lectura en jóvenes universitarios de comunicación
 - [Reporte](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/INFORME.md)
 
 ### Síntesis de Hallazgos
+Se realiza una síntesis de los resultados organizado según las categorías definidas previamente.
 - [Síntesis](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/Resultados/SINTESISDEHALLAZGOS.md)
