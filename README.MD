@@ -39,7 +39,7 @@ Se presentan las interrogantes que orientaron las guías de exploración aplicad
 
 Cuestionario exploratorio auto respondido de preguntas abiertas sobre prácticas de estudio y prácticas de lectura. La muestra fue tomanda en el marco del módulo Jóvenes y TICs, del curso Sociedad, Cultura y TICs de la carrera de comunicación de la FIC.
 
-- [Cuestionario](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/HerramientasMetodologicas/Cuestionario exploratorio autorrespondido.md)
+- [Cuestionario](https://github.com/magelacabrera/Pr-cticas_estudio_lectura/blob/main/HerramientasMetodologicas/CUESTIONARIO_AUTORESPONDIDO.md)
 
 ### Manual de categorías descriptivas
 
